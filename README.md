@@ -52,7 +52,7 @@ This Car Rental System allows users to view available cars, rent a car for a spe
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/car-rental-system.git
+    git clone https://github.com/SAINATH537/car-rental-system.git
     ```
 2. Navigate to the project directory:
     ```bash
